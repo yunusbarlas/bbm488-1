@@ -1,0 +1,40 @@
+
+
+.content {
+    font: 100%/1.4 Verdana, Arial, Helvetica, sans-serif;
+	background: #91D7E9;
+	margin: 0;
+	
+	color: #0000FF;
+	width: 100%;
+
+}
+
+.tweetStyle {
+	width: 100%;
+	border: 1px solid #3366FF;
+	border-left: 4px solid #3366FF;
+}
+
+
+.textField {
+	border:2px solid #456879;
+	border-radius:10px;
+	height: 22px;
+	width: 230px;
+}
+
+
+.button {
+	border-top: 1px solid #96d1f8;
+   background: #65a9d7; 
+   padding: 5px 10px;  
+   border-radius: 8px;  
+   box-shadow: rgba(0,0,0,1) 0 1px 0;
+   text-shadow: rgba(0,0,0,.4) 0 1px 0;
+   color: white;
+   font-size: 14px;
+   font-family: Georgia, serif;
+   text-decoration: none;
+   vertical-align: middle;
+}
